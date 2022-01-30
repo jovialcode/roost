@@ -1,38 +1,68 @@
-.App {
-  text-align: center;
+:root{
+    --font-nanum: 'Nanum Gothic', sans-serif;
+    --pure-white: #ffffff;
+    --primary-color: #b9c6d2;
+    --secondary-color: #d0dde9;
+    --tertiary-color: #edf0f8;
+    --accent-color: rgba(255, 62, 0, 0.88);
+    --accent-blur-color: rgba(255, 71, 13, 0.69);
+    --heading-color: rgba(0, 0, 0, 0.7);
+    --text-color: #444444;
+    --background-without-opacity: rgba(255, 255, 255, 0.7);
+    --column-width: 42rem;
+    --column-margin-top: 4rem;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+@font-face {
+    font-family:'NanumGothicLight';
+    src : url('static/fonts/nanum/NanumGothicLight.otf');
+    font-style:normal;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+@font-face {
+    font-family:'NanumGothic';
+    src : url('static/fonts/nanum/NanumGothic.otf');
+    font-style:normal;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+@font-face {
+    font-family:'NanumGothicBold';
+    src : url('static/fonts/nanum/NanumGothicBold.otf');
+    font-style:normal;
 }
 
-.App-link {
-  color: #61dafb;
+@font-face {
+    font-family:'NanumGothicExtraBold';
+    src : url('static/fonts/nanum/NanumGothicExtraBold.otf');
+    font-style:normal;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+@font-face {
+    font-family:'MaruBuriExtraLight';
+    src : url('static/fonts/maruburi/MaruBuri-ExtraLight.otf');
+    font-style:normal;
+}
+
+@font-face {
+    font-family:'MaruBuriLight';
+    src : url('static/fonts/maruburi/MaruBuri-Light.otf');
+    font-style:normal;
+}
+
+@font-face {
+    font-family:'MaruBuri';
+    src : url('static/fonts/maruburi/MaruBuri-Regular.otf');
+    font-style:normal;
+}
+
+@font-face {
+    font-family:'MaruBuriBold';
+    src : url('static/fonts/maruburi/MaruBuri-Bold.otf');
+    font-style:normal;
+}
+
+@font-face {
+    font-family:'MaruBuriSemiBold';
+    src : url('static/fonts/maruburi/MaruBuri-SemiBold.otf');
+    font-style:normal;
 }

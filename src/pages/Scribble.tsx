@@ -1,7 +1,15 @@
-const Scripple = () => {
-    return(
+import {useEffect} from "react";
 
+const Scribble = () => {
+    useEffect(() => {
+        document.title = "Scribbles"
+    }, []);
+
+    return(
+        <div>
+
+        </div>
     )
 }
 
-export default Scripple;
+export default Scribble;
