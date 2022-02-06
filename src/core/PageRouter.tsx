@@ -9,7 +9,7 @@ import DefaultLayout from "../components/layouts/DefaultLayout";
 
 const PageRouter = () =>{
     return(
-        <Router>
+        <Router basename="/roost">
             <Routes>
                 <Route path="/"
                        element={
