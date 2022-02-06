@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d21ccfb1.css",
+    "main.js": "/static/js/main.e6851f3a.js",
+    "static/media/NanumGothicBold.otf": "/static/media/NanumGothicBold.2bcc768d9a2b3a1f9b3a.otf",
+    "static/media/NanumGothicExtraBold.otf": "/static/media/NanumGothicExtraBold.9d67f581296d8d41b532.otf",
+    "static/media/NanumGothic.otf": "/static/media/NanumGothic.13ddaacbbbc836512c0b.otf",
+    "static/media/MaruBuri-SemiBold.otf": "/static/media/MaruBuri-SemiBold.545e4e474bce723c11b3.otf",
+    "static/media/MaruBuri-Bold.otf": "/static/media/MaruBuri-Bold.e68e65eaf57e2f20110b.otf",
+    "static/media/MaruBuri-Light.otf": "/static/media/MaruBuri-Light.1da4ede8417559345576.otf",
+    "static/media/MaruBuri-Regular.otf": "/static/media/MaruBuri-Regular.ed429efab4a65eebc46e.otf",
+    "static/media/MaruBuri-ExtraLight.otf": "/static/media/MaruBuri-ExtraLight.deea571509c116d4f22e.otf",
+    "static/media/NanumGothicLight.otf": "/static/media/NanumGothicLight.1c46f7604d689f94de08.otf",
+    "index.html": "/index.html",
+    "main.d21ccfb1.css.map": "/static/css/main.d21ccfb1.css.map",
+    "main.e6851f3a.js.map": "/static/js/main.e6851f3a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d21ccfb1.css",
+    "static/js/main.e6851f3a.js"
+  ]
+}
