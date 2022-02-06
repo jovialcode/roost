@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/roost/static/css/main.8fc7d9d3.css",
-    "main.js": "/roost/static/js/main.000c2e37.js",
+    "main.js": "/roost/static/js/main.4a266820.js",
     "static/media/NanumGothicBold.otf": "/roost/static/media/NanumGothicBold.2bcc768d9a2b3a1f9b3a.otf",
     "static/media/NanumGothicExtraBold.otf": "/roost/static/media/NanumGothicExtraBold.9d67f581296d8d41b532.otf",
     "static/media/NanumGothic.otf": "/roost/static/media/NanumGothic.13ddaacbbbc836512c0b.otf",
@@ -13,10 +13,10 @@
     "static/media/NanumGothicLight.otf": "/roost/static/media/NanumGothicLight.1c46f7604d689f94de08.otf",
     "index.html": "/roost/index.html",
     "main.8fc7d9d3.css.map": "/roost/static/css/main.8fc7d9d3.css.map",
-    "main.000c2e37.js.map": "/roost/static/js/main.000c2e37.js.map"
+    "main.4a266820.js.map": "/roost/static/js/main.4a266820.js.map"
   },
   "entrypoints": [
     "static/css/main.8fc7d9d3.css",
-    "static/js/main.000c2e37.js"
+    "static/js/main.4a266820.js"
   ]
 }
